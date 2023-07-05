@@ -1,4 +1,5 @@
-# The-Witcher-Este código HTML cria uma página web com um layout responsivo. Ele contém um cabeçalho com um logotipo e um menu de navegação, seguido por uma seção principal com uma imagem e um botão.
+# Este código HTML cria uma página web com um layout responsivo. 
+Ele contém um cabeçalho com um logotipo e um menu de navegação, seguido por uma seção principal com uma imagem e um botão.
 
 O cabeçalho é composto por uma div que contém o logotipo e o nome do projeto. O menu de navegação é representado por uma lista não ordenada (ul) com quatro itens de menu.
 
